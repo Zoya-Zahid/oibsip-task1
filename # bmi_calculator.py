@@ -1,6 +1,6 @@
 # bmi_calculator.py
 # BMI Calculator using Python
-# Developed by: Zoya Zahid
+
 
 def calculate_bmi(weight, height):
     """
